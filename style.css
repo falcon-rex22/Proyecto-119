@@ -1,0 +1,35 @@
+body{
+    background-color: goldenrod;
+        background-image: url("https://i.pinimg.com/originals/b8/58/02/b85802e551088b3ce4ad50f10c65ad9d.png");
+        background-repeat: no-repeat;
+        background-size: 550px;
+}
+
+button{
+    background-color: yellow;
+    color: green;
+    border-radius: 25px;
+    border-color: green;
+    font-size: 20px;
+}
+
+h4{
+    background-color: gold;
+    height: 25px;
+    width: 100px;
+    color: green;
+}
+
+h3{
+    color: white;
+    background-color: red;
+    height: 27px;
+    width: 120px;
+}
+
+h2{
+    color: green;
+    background-color: gold;
+    height: 30px;
+    width: 120px;
+}
